@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Yesika!</h1>
-<h3 align="center">Una Periodista Audiovisual y Frontend Developer.</h3>
+<h3 align="center">Periodista Audiovisual y Frontend Developer.</h3>
 
 <h3 align="left">Contáctame:</h3>
 <p align="left">
